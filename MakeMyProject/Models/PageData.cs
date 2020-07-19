@@ -24,4 +24,3 @@ namespace MakeMyProject.Models
         public List<PageData> data { get; set; }
     }
 }
-}
